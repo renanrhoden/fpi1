@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ilegra0363/CLionProjects/FPI_1/example.c
+stdio.h
+-
+jpeglib.h
+/Users/ilegra0363/CLionProjects/FPI_1/jpeglib.h
+setjmp.h
+-
+stdlib.h
+-
+
